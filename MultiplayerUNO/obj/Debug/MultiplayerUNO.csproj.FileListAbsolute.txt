@@ -1,0 +1,36 @@
+D:\tin hoc nam 2, ky 1\2\1\MultiplayerUno-master\MultiplayerUNO\bin\Debug\MultiplayerUNO.exe.config
+D:\tin hoc nam 2, ky 1\2\1\MultiplayerUno-master\MultiplayerUNO\bin\Debug\MultiplayerUNO.exe
+D:\tin hoc nam 2, ky 1\2\1\MultiplayerUno-master\MultiplayerUNO\bin\Debug\MultiplayerUNO.pdb
+D:\tin hoc nam 2, ky 1\2\1\MultiplayerUno-master\MultiplayerUNO\bin\Debug\LitJSON.dll
+D:\tin hoc nam 2, ky 1\2\1\MultiplayerUno-master\MultiplayerUNO\obj\Debug\MultiplayerUNO.csproj.AssemblyReference.cache
+D:\tin hoc nam 2, ky 1\2\1\MultiplayerUno-master\MultiplayerUNO\obj\Debug\MultiplayerUNO.csproj.SuggestedBindingRedirects.cache
+D:\tin hoc nam 2, ky 1\2\1\MultiplayerUno-master\MultiplayerUNO\obj\Debug\MultiplayerUNO.Form1.resources
+D:\tin hoc nam 2, ky 1\2\1\MultiplayerUno-master\MultiplayerUNO\obj\Debug\MultiplayerUNO.Properties.Resources.resources
+D:\tin hoc nam 2, ky 1\2\1\MultiplayerUno-master\MultiplayerUNO\obj\Debug\MultiplayerUNO.UI.MainForm.resources
+D:\tin hoc nam 2, ky 1\2\1\MultiplayerUno-master\MultiplayerUNO\obj\Debug\MultiplayerUNO.UI.Login.LoginForm.resources
+D:\tin hoc nam 2, ky 1\2\1\MultiplayerUno-master\MultiplayerUNO\obj\Debug\MultiplayerUNO.UI.NetImage.resources
+D:\tin hoc nam 2, ky 1\2\1\MultiplayerUno-master\MultiplayerUNO\obj\Debug\MultiplayerUNO.UI.TestForm.resources
+D:\tin hoc nam 2, ky 1\2\1\MultiplayerUno-master\MultiplayerUNO\obj\Debug\MultiplayerUNO.UI.UIImage.resources
+D:\tin hoc nam 2, ky 1\2\1\MultiplayerUno-master\MultiplayerUNO\obj\Debug\MultiplayerUNO.csproj.GenerateResource.cache
+D:\tin hoc nam 2, ky 1\2\1\MultiplayerUno-master\MultiplayerUNO\obj\Debug\MultiplayerUNO.csproj.CoreCompileInputs.cache
+D:\tin hoc nam 2, ky 1\2\1\MultiplayerUno-master\MultiplayerUNO\obj\Debug\MultiplayerUNO.csproj.CopyComplete
+D:\tin hoc nam 2, ky 1\2\1\MultiplayerUno-master\MultiplayerUNO\obj\Debug\MultiplayerUNO.exe
+D:\tin hoc nam 2, ky 1\2\1\MultiplayerUno-master\MultiplayerUNO\obj\Debug\MultiplayerUNO.pdb
+C:\Users\SURFACE\Desktop\Uno\MultiplayerUNO\bin\Debug\MultiplayerUNO.exe.config
+C:\Users\SURFACE\Desktop\Uno\MultiplayerUNO\bin\Debug\MultiplayerUNO.exe
+C:\Users\SURFACE\Desktop\Uno\MultiplayerUNO\bin\Debug\MultiplayerUNO.pdb
+C:\Users\SURFACE\Desktop\Uno\MultiplayerUNO\bin\Debug\LitJSON.dll
+C:\Users\SURFACE\Desktop\Uno\MultiplayerUNO\obj\Debug\MultiplayerUNO.csproj.AssemblyReference.cache
+C:\Users\SURFACE\Desktop\Uno\MultiplayerUNO\obj\Debug\MultiplayerUNO.csproj.SuggestedBindingRedirects.cache
+C:\Users\SURFACE\Desktop\Uno\MultiplayerUNO\obj\Debug\MultiplayerUNO.Form1.resources
+C:\Users\SURFACE\Desktop\Uno\MultiplayerUNO\obj\Debug\MultiplayerUNO.Properties.Resources.resources
+C:\Users\SURFACE\Desktop\Uno\MultiplayerUNO\obj\Debug\MultiplayerUNO.UI.MainForm.resources
+C:\Users\SURFACE\Desktop\Uno\MultiplayerUNO\obj\Debug\MultiplayerUNO.UI.Login.LoginForm.resources
+C:\Users\SURFACE\Desktop\Uno\MultiplayerUNO\obj\Debug\MultiplayerUNO.UI.NetImage.resources
+C:\Users\SURFACE\Desktop\Uno\MultiplayerUNO\obj\Debug\MultiplayerUNO.UI.TestForm.resources
+C:\Users\SURFACE\Desktop\Uno\MultiplayerUNO\obj\Debug\MultiplayerUNO.UI.UIImage.resources
+C:\Users\SURFACE\Desktop\Uno\MultiplayerUNO\obj\Debug\MultiplayerUNO.csproj.GenerateResource.cache
+C:\Users\SURFACE\Desktop\Uno\MultiplayerUNO\obj\Debug\MultiplayerUNO.csproj.CoreCompileInputs.cache
+C:\Users\SURFACE\Desktop\Uno\MultiplayerUNO\obj\Debug\MultiplayerUNO.csproj.CopyComplete
+C:\Users\SURFACE\Desktop\Uno\MultiplayerUNO\obj\Debug\MultiplayerUNO.exe
+C:\Users\SURFACE\Desktop\Uno\MultiplayerUNO\obj\Debug\MultiplayerUNO.pdb
